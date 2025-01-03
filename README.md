@@ -4,7 +4,7 @@ Challenge from [The C# Player's Guide](https://csharpplayersguide.com/) by RB Wh
 Note: Level 9 Challenge
 
 ### Repairing the Clocktower: 100xp
-- [X] Completed
+- [ ] Completed
 
 #### Objectives
 - Take a number as an input from the user
